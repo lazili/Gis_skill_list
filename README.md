@@ -8,6 +8,8 @@
 * [Arcgis for Desktop](#Arcgis for Desktop)
 * [Python](#Python)
 * [R语言学习](#R语言学习)
+ * [入门](#入门)
+ * [进阶](#进阶)
 
 ## 翻墙
 
@@ -101,6 +103,29 @@ ENVI/IDL技术殿堂,ENVI-IDL中国官方博客，强烈建议所有文章都认
 ## Python
 
 ## R语言学习
+
+### 入门
+
+R语言入门很简单，学习曲线不算高，很快可以入门。[Rseek](http://www.rseek.org/)这个网站很好用，[任务列表](http://cran.r-project.org/web/views/)可以发现很多你需要的**library**
+
+* 书籍
+ - R for beginners中文版
+ - 153分钟学会R
+ - R Reference Card 2.0
+ - R in Action
+ - R in a Nutshell
+
+### 进阶
+
+这个阶段主要研究算法模型了，统计学上的东西,80%的时间研究统计学，留下20%的时间研究R就够了。可视化也很重要，ggplot2值得研究，另外魏太云的 [recharts](https://github.com/taiyun/recharts) 也很值得研究。
+
+* 书籍
+ - Statistics with R
+ - The R book
+ - R Graphics
+ - ggplot2：数据分析与图形艺术
+ - 现代统计图形
+
 
 ## 网站推荐
 
