@@ -5,6 +5,9 @@
 * [遥感](#遥感)
  * [数据下载](#数据下载)
  * [ENVI相关](#ENVI相关)
+* [Arcgis for Desktop](#Arcgis for Desktop)
+* [Python](#Python)
+* [R语言学习](#R语言学习)
 
 ## 翻墙
 
@@ -93,4 +96,11 @@ ENVI/IDL技术殿堂,ENVI-IDL中国官方博客，强烈建议所有文章都认
  - 《ENVI遥感图像处理方法》邓书斌 偏应用型的书，入门推荐用这本。
  - 《ENVI遥感影像处理教程》李小娟 偏理论一些，推荐看。
 
+## Arcgis for Desktop
+
+## Python
+
+## R语言学习
+
+## 网站推荐
 
