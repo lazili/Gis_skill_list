@@ -44,3 +44,7 @@ Aster、Ikonos、Quickbird、Orbview、Lansat、Modis、STRM 下载联系数据�
 * [国家卫星气象中心](http://satellite.cma.gov.cn/portalsite/default.aspx) ☆☆☆
 
 风云系类卫星数据下载
+
+* [国家基础地理信息系统](http://nfgis.nsdi.gov.cn/nfgis/chinese/c_xz.htm) ☆☆
+
+国家基础地理信息系统1:400万数据下载,中国国界、省界、地市级以上居民地、三级以上河流、主要公路和主要铁路等数据
