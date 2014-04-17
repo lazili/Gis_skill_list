@@ -10,6 +10,7 @@
 * [R语言学习](#R语言学习)
  * [入门](#入门)
  * [进阶](#进阶)
+* [网站推荐](#网站推荐)
 
 ## 翻墙
 
@@ -84,7 +85,7 @@ Aster、Ikonos、Quickbird、Orbview、Lansat、Modis、STRM 下载联系数据�
 
 * 下载
 
-[3Splus](http://www.tactan.net/envi50-download.html)基本上可以下载到最新版本的ENVI破解版，当然破解版只限学习。
+这个博客[3Splus](http://www.tactan.net/envi50-download.html)基本上可以下载到最新版本的ENVI破解版，当然破解版只限学习。
 
 * [Envi-IDL博客](http://blog.sina.com.cn/enviidl)
 
@@ -129,3 +130,10 @@ R语言入门很简单，学习曲线不算高，很快可以入门。[Rseek](ht
 
 ## 网站推荐
 
+* [rseek](http://www.rseek.org/)
+* [R语言任务列表](http://cran.r-project.org/web/views/)
+* [Envi-IDL博客](http://blog.sina.com.cn/enviidl)
+* [数据科学与R语言](http://xccds1977.blogspot.com/)
+* [R and data mining](http://www.rdatamining.com/)
+* [空间分析任务列表](http://cran.r-project.org/web/views/Spatial.html)
+* [统计之都](http://cos.name/)
