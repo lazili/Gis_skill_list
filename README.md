@@ -1,6 +1,7 @@
 # Gis Skill List
 
 * [翻墙](#翻墙)
+* [Google](#Google)
 * [遥感](#遥感)
  * [数据下载](#数据下载)
  * [ENVI相关](#ENVI相关)
@@ -12,6 +13,25 @@
 * [SwitchySharp插件](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm)
 
 配置参考[图文教程](https://code.google.com/p/goagent/wiki/InstallGuide)
+
+## Google
+常用技巧如下，可以组合：
+
+* 双引号
+
+搜索结果返回的页面包含双引号中出现的所有的词，连顺序也必须完全匹配，“ENVI IDL教程”
+
+* 减号
+
+减号代表搜索不包含减号后面的词的页面，搜索 -引擎
+
+* site:
+
+用来搜索某个域名下的所有文件，site:sina.com
+
+* filetype:
+
+用于搜索特定文件格式，filetype:pdf
 
 ## 遥感
 
