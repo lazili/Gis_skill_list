@@ -75,6 +75,8 @@ Aster、Ikonos、Quickbird、Orbview、Lansat、Modis、STRM 下载联系数据�
 
 环境星HJ-1A/B 数据、中巴资源数据
 
+* [清华大学地学中心土地利用数据](http://data.ess.tsinghua.edu.cn/)
+
 * [国家卫星气象中心](http://satellite.cma.gov.cn/portalsite/default.aspx) ☆☆☆
 
 风云系类卫星数据下载
