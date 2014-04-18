@@ -6,6 +6,10 @@
  * [数据下载](#数据下载)
  * [ENVI相关](#ENVI相关)
 * [Arcgis for Desktop](#Arcgis for Desktop)
+ * [地理数据库](#地理数据库)
+ * [制图](#制图)
+ * [矢量编辑](#矢量编辑)
+ * [空间分析](#空间分析)
 * [Python](#Python)
 * [R语言学习](#R语言学习)
  * [入门](#入门)
@@ -128,10 +132,25 @@ ENVI/IDL技术殿堂,ENVI-IDL中国官方博客，强烈建议所有文章都认
  - [3D Analyst](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/00q8000000wv000000/)
  - [Spatial Analyst](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/005900000001000000/)
  - [Geostatistical Analyst](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/003100000001000000/)
- 
-扩展模块功能很多要善用[查找工具](#查找工具)
+
+扩展模块功能很多要善用[查找工具](#查找工具), 上述的三个工具箱建议熟读帮助，对于每个工具建议研究下工具描述。
 
 ## Python
+
+* 爬虫
+ * urllib2
+ * BeautifulSoup
+ * requests
+* [正则表达式](http://www.regexlab.com/zh/regref.htm)
+* [Python列表](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+* [ArcPy](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/000v000000v7000000/)
+* [Python通过rpy2调用R语言](https://github.com/kalelfc/rpy2)
+
+* 书籍
+ * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/index.html)
+ * Leaning Python
+ * Python核心编程
+ * Python标准库
 
 ## R语言学习
 
@@ -148,7 +167,8 @@ R语言入门很简单，学习曲线不算高，很快可以入门。[Rseek](ht
 
 ### 进阶
 
-这个阶段主要研究算法模型了，统计学上的东西,80%的时间研究统计学，留下20%的时间研究R就够了。可视化也很重要，ggplot2值得研究，另外魏太云的 [recharts](https://github.com/taiyun/recharts) 也很值得研究。
+这个阶段主要研究算法模型了，统计学上的东西,80%的时间研究统计学，留下20%的时间研究R就够了。可视化也很重要，ggplot2值得研究，另外魏太云的 [recharts](https://github.com/taiyun/recharts) 也很值得研究。 R语言学习最好的方法就是看help，每个package都有很详细的help
+R语言与统计相关的课程可以在MOOC上找到。
 
 * 书籍
  - Statistics with R
@@ -156,6 +176,7 @@ R语言入门很简单，学习曲线不算高，很快可以入门。[Rseek](ht
  - R Graphics
  - ggplot2：数据分析与图形艺术
  - 现代统计图形
+ -Data_Mining_with_R_常用方法命令的参考手册
 
 
 ## 网站推荐
@@ -167,3 +188,6 @@ R语言入门很简单，学习曲线不算高，很快可以入门。[Rseek](ht
 * [R and data mining](http://www.rdatamining.com/)
 * [空间分析任务列表](http://cran.r-project.org/web/views/Spatial.html)
 * [统计之都](http://cos.name/)
+* [R Graphical Manual](http://rgm.ogalab.net/RGM/R_image_list?page=182&init=true)
+* [60+ R resources](http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?pageNumber=3#rstudiodoc)
+* [ArcGIS Resources](http://resources.arcgis.com/zh-cn/home/)
