@@ -144,9 +144,10 @@ ENVI/IDL技术殿堂,ENVI-IDL中国官方博客，强烈建议所有文章都认
  * BeautifulSoup
  * requests
 * [正则表达式](http://www.regexlab.com/zh/regref.htm)
-* [Python列表](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 * [ArcPy](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/000v000000v7000000/)
 * [Python通过rpy2调用R语言](https://github.com/kalelfc/rpy2)
+* [Python列表](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+
 
 * 书籍
  * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/index.html)
