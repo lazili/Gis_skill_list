@@ -111,19 +111,17 @@ ENVI/IDL技术殿堂,ENVI-IDL中国官方博客，强烈建议所有文章都认
 
 ### 地理数据库
 
-* [构建地理数据库](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/003n00000009000000/)练习1-8
+* [构建地理数据库](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/003n00000009000000/) 练习1-8
 
 ### 制图
 
 * [指定坐标系](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/00660000000v000000/)
-
 * [页面布局](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/00s90000002z000000/)
-
 * [符号和样式](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/00s600000003000000/)
 
 ### 矢量编辑
 
-* [编辑教程](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/01m600000020000000/)练习1-5
+* [编辑教程](http://resources.arcgis.com/zh-cn/help/main/10.2/index.html#/na/01m600000020000000/) 练习1-5
 
 ### 空间分析
 
