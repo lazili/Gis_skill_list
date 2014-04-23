@@ -14,7 +14,11 @@
 * [R语言学习](#R语言学习)
  * [入门](#入门)
  * [进阶](#进阶)
+* [开发相关](#开发相关)
+ * [ArcGIS for Server](ArcGIS for Server)
+ * [JavaScript](JavaScript)
 * [网站推荐](#网站推荐)
+
 
 ## 翻墙
 
@@ -25,6 +29,7 @@
 配置参考[图文教程](https://code.google.com/p/goagent/wiki/InstallGuide)
 
 ## Google
+
 常用技巧如下，可以组合：
 * 双引号
 
@@ -131,6 +136,10 @@ ENVI/IDL技术殿堂,ENVI-IDL中国官方博客，强烈建议所有文章都认
 
 扩展模块功能很多要善用[查找工具](#查找工具), 上述的三个工具箱建议熟读帮助，对于每个工具建议研究下工具描述。
 
+* 图书
+ - ArcGIS地理信息系统空间分析实验教程
+
+
 ## Python
 
 * 爬虫
@@ -175,6 +184,20 @@ R语言与统计相关的课程可以在MOOC上找到。
  - 现代统计图形
  - Data_Mining_with_R_常用方法命令的参考手册
 
+
+## 开发相关
+
+### ArcGIS for Server
+
+* [ArcGIS for Server](http://resources.arcgis.com/zh-CN/help/main/10.2/#/na/0154000002np000000/)
+* [配置多机部署](http://resources.arcgis.com/zh-CN/help/main/10.2/#/na/0154000002n0000000/)
+* [Network Analyst](http://resources.arcgis.com/zh-CN/help/main/10.2/#/na/015400000478000000/)
+
+### JavaScript
+* [HTML](http://www.w3school.com.cn/h.asp)
+* [CSS选择器](http://www.w3school.com.cn/css/css_selector_type.asp)
+* [JS入门教程](http://www.w3school.com.cn/js/index.asp)
+* [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/)
 
 ## 网站推荐
 
