@@ -182,7 +182,7 @@ R语言与统计相关的课程可以在MOOC上找到。
  - R Graphics
  - ggplot2：数据分析与图形艺术
  - 现代统计图形
- - Data_Mining_with_R_常用方法命令的参考手册
+ - Data Mining with R 常用方法命令的参考手册
 
 
 ## 开发相关
