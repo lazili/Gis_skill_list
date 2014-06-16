@@ -20,6 +20,7 @@
 * [网站推荐](#网站推荐)
 * [工具推荐](#工具推荐)
  * [Chrome插件](#Chrome插件)
+ * [软件](#软件)
 
 ## 翻墙
 
@@ -228,3 +229,9 @@ R语言与统计相关的课程可以在MOOC上找到。
 * [ProcessOn](https://chrome.google.com/webstore/detail/pnggaliohjcaboolkcpjhfondbjlehkm?utm_source=chrome-app-launcher)
 * [Proxy SwitchySharp](https://chrome.google.com/webstore/detail/dpplabbmogkhghncfbfdeeokoefdjegm)
 * [scroll style](https://chrome.google.com/webstore/detail/scroll-style/lcfiapjcgfnalnpmgfoebehefdeekado)
+
+### 软件
+
+* [Everything](http://www.voidtools.com/)
+* [launchy](http://www.launchy.net/)
+* [sublime text](http://www.sublimetext.com/)
