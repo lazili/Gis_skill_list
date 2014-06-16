@@ -234,4 +234,4 @@ R语言与统计相关的课程可以在MOOC上找到。
 
 * [Everything](http://www.voidtools.com/)
 * [launchy](http://www.launchy.net/)
-* [sublime text](http://www.sublimetext.com/)
+* [Sublime Text](http://www.sublimetext.com/)
