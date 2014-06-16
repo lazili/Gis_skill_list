@@ -16,10 +16,10 @@
  * [进阶](#进阶)
 * [开发相关](#开发相关)
  * [ArcGIS for Server](ArcGIS for Server)
- * [JavaScript](JavaScript)
+ * [JavaScript](#JavaScript)
 * [网站推荐](#网站推荐)
 * [工具推荐](#工具推荐)
- *[Chrome插件](#Chrome插件)
+ * [Chrome插件](#Chrome插件)
 
 ## 翻墙
 
