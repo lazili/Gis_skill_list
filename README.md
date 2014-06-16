@@ -15,7 +15,7 @@
  * [入门](#入门)
  * [进阶](#进阶)
 * [开发相关](#开发相关)
- * [ArcGIS for Server](ArcGIS for Server)
+ * [ArcGIS for Server](#ArcGIS for Server)
  * [JavaScript](#JavaScript)
 * [网站推荐](#网站推荐)
 * [工具推荐](#工具推荐)
