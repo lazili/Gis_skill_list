@@ -18,7 +18,8 @@
  * [ArcGIS for Server](ArcGIS for Server)
  * [JavaScript](JavaScript)
 * [网站推荐](#网站推荐)
-
+* [工具推荐](#工具推荐)
+ *[Chrome插件](#Chrome插件)
 
 ## 翻墙
 
@@ -215,3 +216,15 @@ R语言与统计相关的课程可以在MOOC上找到。
 * [R Graphical Manual](http://rgm.ogalab.net/RGM/R_image_list?page=182&init=true)
 * [60+ R resources](http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills?pageNumber=3#rstudiodoc)
 * [ArcGIS Resources](http://resources.arcgis.com/zh-cn/home/)
+
+## 工具推荐
+
+### Chrome插件
+
+* [Markdown Here](http://markdown-here.com/)
+* [Neat Bookmarks](https://chrome.google.com/webstore/detail/neat-bookmarks/pnbmhmngmdppipkoognikjonljicbhnl) Google 最近会出一个新的，代替这个
+* [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
+* [Pocket](https://chrome.google.com/webstore/detail/mjcnijlhddpbdemagnpefmlkjdagkogk?utm_source=chrome-app-launcher)
+* [ProcessOn](https://chrome.google.com/webstore/detail/pnggaliohjcaboolkcpjhfondbjlehkm?utm_source=chrome-app-launcher)
+* [Proxy SwitchySharp](https://chrome.google.com/webstore/detail/dpplabbmogkhghncfbfdeeokoefdjegm)
+* [scroll style](https://chrome.google.com/webstore/detail/scroll-style/lcfiapjcgfnalnpmgfoebehefdeekado)
